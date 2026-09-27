@@ -1,7 +1,7 @@
 # Sopracciglio Template
 KiCad V10.99 Project Template for Custom Arduino Sopracciglio Boards
 
-![Board Image](https://github.com/miekush/sopracciglio-template/blob/main/pcb.png)
+![Board Image](https://github.com/miekush/sopracciglio-template/blob/main/template_3d.png)
 
 # Installation
 
