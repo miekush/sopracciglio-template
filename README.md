@@ -1,5 +1,5 @@
 # Sopracciglio Template
-KiCad V10.99 Project Template for Custom Arduino Sopracciglio Boards
+KiCad V10.99 Project Template for Custom Arduino Sopracciglio Boards (Compatible with the 2026 Open Sauce Badge)
 
 ![Board Image](https://github.com/miekush/sopracciglio-template/blob/main/template_3d.png)
 
