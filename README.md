@@ -3,6 +3,14 @@ KiCad V10.99 Project Template for Custom Arduino Sopracciglio Boards (Compatible
 
 ![Board Image](https://github.com/miekush/sopracciglio-template/blob/main/template_3d.png)
 
+# Pinout
+This template is designed to be compatible with the 2026 Open Sauce badge! See below pinout diagram with the interface to the badge.
+![Pinout Diagram](https://github.com/miekush/sopracciglio-template/blob/main/pinout.png)
+
+# Schematic Organization
+![Schematic](https://github.com/miekush/sopracciglio-template/blob/main/schematic_layout.png)
+The schematic page is organized with both a template area (top of the page) and the user application area (bottom of the page). Assuming you are designing a board to be compatible with the Open Sauce 2026 badge, you will only need to add your application circuit to the bottom of the page and connect it up to the global net labels defined in the template section!
+
 # Installation
 
 1. Clone repo to a folder of your choice
